@@ -1,2 +1,2 @@
-# C24_solucion_proyecto_geologo
-C24_solucion_proyecto_geologo
+# angryBirdsEstapa1
+Angry Birds Etapa 1
